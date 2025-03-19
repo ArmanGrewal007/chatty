@@ -1,0 +1,1 @@
+- Also mark your repo as template in Github
