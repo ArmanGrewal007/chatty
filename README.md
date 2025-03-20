@@ -1,6 +1,6 @@
-<div align="center"><h1>Chatty</h1></div>
-
-You can view it on - https://armangrewal007.github.io/chatty/
+<div align="center"><h1>Chatty</h1>
+<img src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif" />
+</div>
 
 
 ```bash
